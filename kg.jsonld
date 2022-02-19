@@ -1,0 +1,15 @@
+{
+  "@context": "https://raw.githubusercontent.com/cadmiumkitty/kg-file/main/kgcontext.jsonld",
+  "@graph": [
+    {
+      "@id": "service.yaml",
+      "type": "https://dalstonsemantics.com/ns/sdlc/interface_contract",
+      "subject": "https://dalstonsemantics.com/service/thingymabob"
+    },
+    {
+      "@id": "README.md",
+      "type": "https://dalstonsemantics.com/ns/sdlc/readme",
+      "subject": "https://dalstonsemantics.com/service/thingymabob"
+    }
+  ]
+}

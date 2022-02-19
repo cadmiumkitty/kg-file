@@ -1,0 +1,13 @@
+{
+  "@context":
+  {
+    "subject": {
+      "@id": "http://purl.org/dc/terms/subject",
+      "@type": "@id"
+    },
+    "type": {
+      "@id": "http://purl.org/dc/terms/type",
+      "@type": "@id"
+    }
+  }
+}
