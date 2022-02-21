@@ -3,12 +3,12 @@
   "@graph": [
     {
       "@id": "service.yaml",
-      "type": "https://dalstonsemantics.com/ns/sdlc/interface_contract",
+      "type": "https://dalstonsemantics.com/taxonomy/sdlc/interface_contract",
       "subject": "https://dalstonsemantics.com/service/thingymabob"
     },
     {
       "@id": "README.md",
-      "type": "https://dalstonsemantics.com/ns/sdlc/readme",
+      "type": "https://dalstonsemantics.com/taxonomy/sdlc/readme",
       "subject": "https://dalstonsemantics.com/service/thingymabob"
     }
   ]

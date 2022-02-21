@@ -20,7 +20,7 @@ Simplest case of specifying type and subject of a single `README` file and using
   "@graph": [
     {
       "@id": "README.md",
-      "type": "https://dalstonsemantics.com/ns/sdlc/readme",
+      "type": "https://dalstonsemantics.com/taxonomy/sdlc/readme",
       "subject": "https://dalstonsemantics.com/service/thingymabob"
     }
   ]
@@ -33,6 +33,6 @@ A case can be made for something even simpler that will be translated by the cra
 
 ```
 README.md:
-  type: https://dalstonsemantics.com/ns/sdlc/readme
+  type: https://dalstonsemantics.com/taxonomy/sdlc/readme
   subject: https://dalstonsemantics.com/service/thingymabob
 ```
