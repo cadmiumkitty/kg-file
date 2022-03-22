@@ -8,6 +8,10 @@
     "type": {
       "@id": "http://purl.org/dc/terms/type",
       "@type": "@id"
+    },
+    "title": {
+      "@id": "http://purl.org/dc/terms/title",
+      "@type": "@id"
     }
   }
 }
