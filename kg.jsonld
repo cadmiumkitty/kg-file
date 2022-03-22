@@ -14,7 +14,7 @@
     {
       "@id": "settings.json",
       "type": "https://dalstonsemantics.com/ns/org/isbn-international/978-0124158290/0003",
-      "title": { "@value": "Code formatting standard for use with Visual Studio Code." }
+      "title": "Code formatting standard for use with Visual Studio Code."
     }
   ]
 }

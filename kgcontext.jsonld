@@ -9,8 +9,6 @@
       "@id": "http://purl.org/dc/terms/type",
       "@type": "@id"
     },
-    "title": {
-      "@id": "http://purl.org/dc/terms/title"
-    }
+    "title": "http://purl.org/dc/terms/title"
   }
 }
