@@ -11,7 +11,7 @@
     },
     "title": {
       "@id": "http://purl.org/dc/terms/title",
-      "@type": "@id"
+      "@type": "@value"
     }
   }
 }
