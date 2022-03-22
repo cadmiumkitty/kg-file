@@ -12,7 +12,7 @@
       "subject": "https://dalstonsemantics.com/service/thingymabob"
     },
     {
-      "@id": ".vscode/settings.json",
+      "@id": "settings.json",
       "type": "https://dalstonsemantics.com/ns/org/isbn-international/978-0124158290/0003"
     }
   ]
